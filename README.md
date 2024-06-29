@@ -2,4 +2,4 @@
 
 This project was created from local system
 created by Irfan Ahmad
-owner Shahid Rizvi
+owner Shahid Rizvi.
